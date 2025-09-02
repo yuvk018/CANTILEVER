@@ -1,0 +1,8 @@
+# Environment files
+*.env
+
+# Service account file
+travelbuddy/server/config/serviceAccount.json
+
+
+
